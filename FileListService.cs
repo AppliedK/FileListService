@@ -5,6 +5,7 @@ using System.Timers;
 namespace FileListService
 {
     /// <summary>
+    /// The windows service is a class which derives all the properties and methods of ServiceBase
     /// Uncomment the code commented to run the service after lapse of 60000 milliseconds
     /// timer.Interval = 60000; implies that when timer ticks after 60000 milliseconds, event fires
     /// which fires the event handler delegate method OnElaspedListFiles
