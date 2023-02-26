@@ -1,0 +1,244 @@
+﻿
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: An exception occurred in the OnAfterInstall event handler of System.ServiceProcess.ServiceInstaller.
+The inner exception System.ArgumentException was thrown with the following error message: Service name  contains invalid characters, is empty, or is too long (max length = 80)..
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: An exception occurred in the OnAfterInstall event handler of System.ServiceProcess.ServiceInstaller.
+The inner exception System.ArgumentException was thrown with the following error message: Service name  contains invalid characters, is empty, or is too long (max length = 80)..
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: An exception occurred in the OnAfterInstall event handler of System.ServiceProcess.ServiceInstaller.
+The inner exception System.ArgumentException was thrown with the following error message: Service name  contains invalid characters, is empty, or is too long (max length = 80)..
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: An exception occurred in the OnAfterInstall event handler of System.ServiceProcess.ServiceProcessInstaller.
+The inner exception System.ArgumentException was thrown with the following error message: Service name  contains invalid characters, is empty, or is too long (max length = 80)..
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: An exception occurred in the OnAfterInstall event handler of System.ServiceProcess.ServiceInstaller.
+The inner exception System.ArgumentException was thrown with the following error message: Service name  contains invalid characters, is empty, or is too long (max length = 80)..
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.exe assembly's progress.
+The file is located at C:\Users\dell\Desktop\Learn Windows Service\FileListService\bin\Debug\FileListService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
